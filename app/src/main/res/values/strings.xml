@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PianoRewind</string>
+    <string name="download_button">Download</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_speed_change_increment_key">speed_change_increment</string>
+    <string name="pref_speed_change_increment_label">Speed Change Increment</string>
+    <string name="pref_speed_change_increment_default">0.2</string>
+    <string name="pref_skip_change_increment_key">skip_change_increment</string>
+    <string name="pref_skip_change_increment_label">Skip Change Increment</string>
+    <string name="pref_skip_change_increment_default">1000</string>
+
+    <string name="pref_speed_change_one_label">0.1</string>
+    <string name="pref_speed_change_two_label">0.2</string>
+    <string name="pref_speed_change_three_label">0.3</string>
+    <string name="pref_speed_change_four_label">0.4</string>
+    <string name="pref_speed_change_five_label">0.5</string>
+
+    <string name="pref_skip_change_one_label">1 second</string>
+    <string name="pref_skip_change_two_label">2 seconds</string>
+    <string name="pref_skip_change_three_label">3 seconds</string>
+    <string name="pref_skip_change_four_label">4 seconds</string>
+    <string name="pref_skip_change_five_label">5 seconds</string>
+
+    <string name="pref_speed_change_one_values">0.1</string>
+    <string name="pref_speed_change_two_values">0.2</string>
+    <string name="pref_speed_change_three_values">0.3</string>
+    <string name="pref_speed_change_four_values">0.4</string>
+    <string name="pref_speed_change_five_values">0.5</string>
+
+    <string name="pref_skip_change_one_values">1000</string>
+    <string name="pref_skip_change_two_values">2000</string>
+    <string name="pref_skip_change_three_values">3000</string>
+    <string name="pref_skip_change_four_values">4000</string>
+    <string name="pref_skip_change_five_values">5000</string>
+    <string name="load_audio">Load Audio</string>
+</resources>

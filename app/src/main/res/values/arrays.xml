@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_speed_change_increment_labels">
+        <item>@string/pref_speed_change_one_label</item>
+        <item>@string/pref_speed_change_two_label</item>
+        <item>@string/pref_speed_change_three_label</item>
+        <item>@string/pref_speed_change_four_label</item>
+        <item>@string/pref_speed_change_five_label</item>
+    </array>
+
+    <array name="pref_speed_change_increment_values">
+        <item>@string/pref_speed_change_one_values</item>
+        <item>@string/pref_speed_change_two_values</item>
+        <item>@string/pref_speed_change_three_values</item>
+        <item>@string/pref_speed_change_four_values</item>
+        <item>@string/pref_speed_change_five_values</item>
+    </array>
+
+    <array name="pref_skip_change_increment_labels">
+        <item>@string/pref_skip_change_one_label</item>
+        <item>@string/pref_skip_change_two_label</item>
+        <item>@string/pref_skip_change_three_label</item>
+        <item>@string/pref_skip_change_four_label</item>
+        <item>@string/pref_skip_change_five_label</item>
+    </array>
+
+    <array name="pref_skip_change_increment_values">
+        <item>@string/pref_skip_change_one_values</item>
+        <item>@string/pref_skip_change_two_values</item>
+        <item>@string/pref_skip_change_three_values</item>
+        <item>@string/pref_skip_change_four_values</item>
+        <item>@string/pref_skip_change_five_values</item>
+    </array>
+</resources>

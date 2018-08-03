@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="@string/pref_speed_change_increment_default"
+        android:key="@string/pref_speed_change_increment_key"
+        android:title="@string/pref_speed_change_increment_label"
+        android:entryValues="@array/pref_speed_change_increment_values"
+        android:entries="@array/pref_speed_change_increment_labels"/>
+
+
+    <ListPreference
+        android:defaultValue="@string/pref_skip_change_increment_default"
+        android:key="@string/pref_skip_change_increment_key"
+        android:title="@string/pref_skip_change_increment_label"
+        android:entryValues="@array/pref_skip_change_increment_values"
+        android:entries="@array/pref_skip_change_increment_labels"/>
+
+</PreferenceScreen>
